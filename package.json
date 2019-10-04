@@ -43,6 +43,7 @@
     "google-auth-library": "^2.0.2",
     "googleapis": "^36.0.0",
     "highlight.js": "^9.15.6",
+    "iltorb": "^2.4.3",
     "inline-styles-parse": "^1.2.0",
     "jsonfile": "^5.0.0",
     "layout": "^2.2.0",
